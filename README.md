@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salman Farshi</h1>
-<h3 align="center">A passionate Artificial Intelligence.'m a passionate AI Engineer with a strong background in machine learning and deep learning. I love creating intelligent systems and solving real-world problems using AI. Welcome to my GitHub profile!</h3>
+<h3 align="center">A passionate Artificial Intelligence.I'm a passionate AI Engineer with a strong background in machine learning and deep learning. I love creating intelligent systems and solving real-world problems using AI. Welcome to my GitHub profile!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sftsalman&label=Profile%20views&color=0e75b6&style=flat" alt="sftsalman" /> </p>
 
