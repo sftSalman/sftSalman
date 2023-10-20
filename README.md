@@ -1,57 +1,23 @@
-# Hi, I'm [Salman Farshi] 👋
+<h1 align="center">Hi 👋, I'm Salman Farshi</h1>
+<h3 align="center">A passionate Artificial Intelligence.'m a passionate AI Engineer with a strong background in machine learning and deep learning. I love creating intelligent systems and solving real-world problems using AI. Welcome to my GitHub profile!</h3>
 
-I'm a passionate AI Engineer with a strong background in machine learning and deep learning. I love creating intelligent systems and solving real-world problems using AI. Welcome to my GitHub profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sftsalman&label=Profile%20views&color=0e75b6&style=flat" alt="sftsalman" /> </p>
 
-- 🔭 I’m currently working on: [Project Name]
-- 🌱 I’m currently learning: [Learning Focus]
-- 💬 Ask me about: [Your Areas of Expertise]
-- 📫 How to reach me: [Your Email or Contact Information]
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sftsalman" alt="sftsalman" /></a> </p>
 
-## Skills
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Data Science
-- Python
-- TensorFlow
-- PyTorch
-- Sci-kit Learn
-- Data Visualization
+- 🔭 I’m currently working on **several Research Projects (Computer Vision And Generative AI))**
 
-## Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Here are some of the projects I've worked on:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-1. **[Project 1](Link to Project 1)** - Short description of the project.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sftsalman&show_icons=true&locale=en&layout=compact" alt="sftsalman" /></p>
 
-2. **[Project 2](Link to Project 2)** - Short description of the project.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sftsalman&show_icons=true&locale=en" alt="sftsalman" /></p>
 
-3. **[Project 3](Link to Project 3)** - Short description of the project.
-
-## Publications
-
-I've contributed to the AI and ML community through research and publications. Here are some of my publications:
-
-1. **[Publication 1](Link to Publication 1)** - Brief description.
-2. **[Publication 2](Link to Publication 2)** - Brief description.
-3. **[Publication 3](Link to Publication 3)** - Brief description.
-
-## Blog
-
-I write about AI, machine learning, and related topics on my [blog](Link to your blog). Here are some of my recent articles:
-
-1. [Article 1 Title](Link to Article 1)
-2. [Article 2 Title](Link to Article 2)
-3. [Article 3 Title](Link to Article 3)
-
-## Connect with Me
-
-- Twitter: [Your Twitter Handle](Link to Twitter)
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Email: [Your Email Address](mailto:youremail@example.com)
-
-Feel free to explore my projects and connect with me. Let's collaborate and make AI more exciting and accessible for everyone!
-
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sftsalman&" alt="sftsalman" /></p>
