@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Salman Farshi] 👋
 
 I'm a passionate AI Engineer with a strong background in machine learning and deep learning. I love creating intelligent systems and solving real-world problems using AI. Welcome to my GitHub profile!
 
