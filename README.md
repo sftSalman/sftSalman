@@ -46,7 +46,7 @@
    - Technologies Used: Swift, iOS, Firebase.
    - [Project Link](https://github.com/sftSalman/TODO_IOS)
   
-<h3 align="left">Others:</h3>
+<h3 align="left">Others(Self Practice):</h3>
 
 **TensorFlow Projects:**
 
