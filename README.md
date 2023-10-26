@@ -51,7 +51,7 @@
 **TensorFlow Projects:**
 
 1. **TensorFlow Basic**
-   - [Project Link]([https://github.com/sftSalman/tensorflowBasic/blob/main/Augmented_CatsAndDog_tensorflow.ipynb](https://github.com/sftSalman/tensorflowBasic/tree/main))
+   - [Project Link](https://github.com/sftSalman/tensorflowBasic/blob/main/Augmented_CatsAndDog_tensorflow.ipynb)
 
 2. **TensorFlow Advanced**
    - [Project Link](https://github.com/sftSalman/tensoflowMaster/tree/main)
@@ -59,15 +59,15 @@
 **PyTorch Projects:**
 
 3. **PyTorch Project**
-   - [Project Link]([https://github.com/sftSalman/pytorch/blob/main/self_pytorch_logistic_regression.ipynb](https://github.com/sftSalman/pytorch/tree/main))
+   - [Project Link](https://github.com/sftSalman/pytorch/blob/main)
 
 **Computer Vision Projects:**
 
-4. **Computer Vision (CNN)Project**
-   - [Project Link]([https://github.com/sftSalman/CNN/blob/main/SIGN_language_detection_pytorch.ipynb](https://github.com/sftSalman/CNN))
+4. **Computer Vision (CNN) Project**
+   - [Project Link](https://github.com/sftSalman/CNN/blob/main)
 
-5. **Computer Vision (Image Segmentation)Project 2**
-   - [Project Link]([https://github.com/sftSalman/Image_segmentation/blob/main/VGG_segmentation.ipynb](https://github.com/sftSalman/Image_segmentation/tree/main))
+5. **Computer Vision (Image Segmentation) Project 2**
+   - [Project Link](https://github.com/sftSalman/Image_segmentation/blob/main)
 
 
 
