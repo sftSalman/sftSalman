@@ -34,7 +34,7 @@
    - Technologies Used: Deep Learning, CNN, Neural Style Transfer.
    - [Project Link](https://github.com/sftSalman/NeuroART)
 
-6. **Pothole Detection using YOLOv4**
+6. **Pathole Detection using YOLOv4**
    - Technologies Used: Deep Learning, YOLO Object Detection Algorithm, Computer Vision.
    - [Project Link](https://github.com/sftSalman/Pathhole_detection_using_yoloV4)
 
