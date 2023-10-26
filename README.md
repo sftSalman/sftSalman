@@ -14,82 +14,37 @@
 
 <h3 align="left">Research and Academic Projects:</h3>
 
-1. **Arable and none arable land
-Wasteland detection from satellite images of
-Bangladesh using deep learning**
-   - Deep learning, Yolo
-Object Detection
-Algorithm, Computer
-Vision.
-   - 
-   - [[Project Link](https://github.com/sftSalman/Arable_land_and_nonarable_land_dectection_from_sataleite_images-)]
+1. **Arable and Non-Arable Land Wasteland Detection from Satellite Images of Bangladesh using Deep Learning**
+   - Technologies Used: Deep Learning, YOLO Object Detection Algorithm, Computer Vision.
+   - [Project Link](https://github.com/sftSalman/Arable_land_and_nonarable_land_dectection_from_sataleite_images-)
 
-2. **Risky_building_detection_of_dhaka_city_from_satelite_images-**
+2. **Risky Building Detection of Dhaka City from Satellite Images**
+   - Technologies Used: Deep Learning, Image Segmentation, YOLO Object Detection Algorithm, Computer Vision.
+   - [Project Link](https://github.com/sftSalman/Risky_building_detection_of_dhaka_city_from_satelite_images-)
 
-   - Technologies Used:    - Deep learning,Image Segmentation, Yolo
-Object Detection
-Algorithm, Computer
-Vision.
-   -  [Project Link](https://github.com/sftSalman/Risky_building_detection_of_dhaka_city_from_satelite_images-)
-3. **Abstract-art-generationDCGAN**
-  
-   - Technologies Used: Deep Learning ,
-DCGAN, Pytorch
-  -  [Project Link]([https://github.com/sftSalman/Risky_building_detection_of_dhaka_city_from_satelite_images-](https://github.com/sftSalman/Abstract-art-generation-DCGAN))
+3. **Abstract Art Generation using DCGAN**
+   - Technologies Used: Deep Learning, DCGAN, PyTorch.
+   - [Project Link](https://github.com/sftSalman/Abstract-art-generation-DCGAN)
 
-4. ** FlowerGen-flower
-Generation using WGAN**
+4. **FlowerGen - Flower Generation using WGAN**
+   - Technologies Used: Deep Learning, GAN, WGAN, PyTorch.
+   - [Project Link](https://github.com/sftSalman/FlowerGen-flowerGenerationWGAN)
 
-   - Technologies Used:Deep Learning GAN,
-WGAN ,Pytorch
- - [Project Link]([link-to-your-project](https://github.com/sftSalman/FlowerGen-flowerGenerationWGAN))
- 
 5. **NeuroArt**
-   
-   - Technologies Used: Deep Learning, CNN,
-Neural
-Style Transfer
-  - Link to Project: [Project Link]([link-to-your-project](https://github.com/sftSalman/NeuroART))
+   - Technologies Used: Deep Learning, CNN, Neural Style Transfer.
+   - [Project Link](https://github.com/sftSalman/NeuroART)
 
-6. **Pothole detection using
-yolov4**
- 
-   - Technologies Used:Deep learning, Yolo
-Object Detection
-Algorithm , Computer
-- [Project Link](https://github.com/sftSalman/Pathhole_detection_using_yoloV4-)
-8. **Deploying custom object
-detection model using Yolov5 and
-RESTAPI**
+6. **Pothole Detection using YOLOv4**
+   - Technologies Used: Deep Learning, YOLO Object Detection Algorithm, Computer Vision.
+   - [Project Link](https://github.com/sftSalman/Pathhole_detection_using_yoloV4)
 
-   - Technologies Used: Deep learning,
-Computer vision,
-Object detection,
-Yolov5, RestApi ,
-Flask
-   -  [Project Link]([link-to-your-project](https://github.com/sftSalman/Deploying-_custom_object_detection_Yolov5_RESTAPI_Deployment))
+7. **Deploying Custom Object Detection Model using YOLOv5 and REST API**
+   - Technologies Used: Deep Learning, Computer Vision, Object Detection, YOLOv5, REST API, Flask.
+   - [Project Link](https://github.com/sftSalman/Deploying-_custom_object_detection_Yolov5_RESTAPI_Deployment)
 
-9. **Project Title 2**
- 
-   - Technologies Used: Deep learning,
-Computer vision,
-Object detection,
-Yolov5, RestApi ,
-Flask
-   -  [Project Link]([link-to-your-project](https://github.com/sftSalman/Deploying-_custom_object_detection_Yolov5_RESTAPI_Deployment))
-  
-   10. **ToDo:Daily**
- 
-   - Technologies Used:Swift ,
-iOS,Firebase
-
-
-   -  [Project Link]([[link-to-your-project](https://github.com/sftSalman/Deploying-_custom_object_detection_Yolov5_RESTAPI_Deployment](https://github.com/sftSalman/TODO_IOS)))
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
+8. **ToDo:Daily**
+   - Technologies Used: Swift, iOS, Firebase.
+   - [Project Link](https://github.com/sftSalman/TODO_IOS)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
