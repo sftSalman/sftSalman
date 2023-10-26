@@ -22,12 +22,15 @@ Object Detection
 Algorithm, Computer
 Vision.
    - 
-   - Link to Project: [[Project Link](https://github.com/sftSalman/Arable_land_and_nonarable_land_dectection_from_sataleite_images-)](link-to-your-project)
+   - [[Project Link](https://github.com/sftSalman/Arable_land_and_nonarable_land_dectection_from_sataleite_images-)]
 
-2. **Project Title 2**
-   - Description: Brief description of the project.
-   - Technologies Used: List the technologies, libraries, or tools you used.
-   - Link to Project: [Project Link](link-to-your-project)
+2. **Risky_building_detection_of_dhaka_city_from_satelite_images-**
+
+   - Technologies Used:    - Deep learning,Image Segmentation, Yolo
+Object Detection
+Algorithm, Computer
+Vision.
+   -  [Project Link](https://github.com/sftSalman/Risky_building_detection_of_dhaka_city_from_satelite_images-)
 3. **Project Title 1**
    - Description: Brief description of the project.
    - Technologies Used: List the technologies, libraries, or tools you used.
