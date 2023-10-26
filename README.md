@@ -35,30 +35,56 @@ Vision.
   
    - Technologies Used: Deep Learning ,
 DCGAN, Pytorch
- [Project Link]((https://github.com/sftSalman/Abstract-artgeneration-DCGAN)
+ [Project Link]([link-to-your-project](https://github.com/sftSalman/Abstract-art-generation-DCGAN))
 
-4. **Project Title 2**
-   - Description: Brief description of the project.
-   - Technologies Used: List the technologies, libraries, or tools you used.
-   - Link to Project: [Project Link](link-to-your-project)
-5. **Project Title 1**
-   - Description: Brief description of the project.
-   - Technologies Used: List the technologies, libraries, or tools you used.
-   - Link to Project: [Project Link](link-to-your-project)
+4. ** FlowerGen-flower
+Generation using WGAN**
 
-6. **Project Title 2**
-   - Description: Brief description of the project.
-   - Technologies Used: List the technologies, libraries, or tools you used.
-   - Link to Project: [Project Link](link-to-your-project)
-8. **Project Title 1**
-   - Description: Brief description of the project.
-   - Technologies Used: List the technologies, libraries, or tools you used.
-   - Link to Project: [Project Link](link-to-your-project)
+   - Technologies Used:Deep Learning GAN,
+WGAN ,Pytorch
+ - [Project Link]([link-to-your-project](https://github.com/sftSalman/FlowerGen-flowerGenerationWGAN))
+ 
+5. **NeuroArt**
+   
+   - Technologies Used: Deep Learning, CNN,
+Neural
+Style Transfer
+  - Link to Project: [Project Link]([link-to-your-project](https://github.com/sftSalman/NeuroART))
+
+6. **Pothole detection using
+yolov4**
+ 
+   - Technologies Used:Deep learning, Yolo
+Object Detection
+Algorithm , Computer
+- [Project Link](https://github.com/sftSalman/Pathhole_detection_using_yoloV4-)
+8. **Deploying custom object
+detection model using Yolov5 and
+RESTAPI**
+
+   - Technologies Used: Deep learning,
+Computer vision,
+Object detection,
+Yolov5, RestApi ,
+Flask
+   -  [Project Link]([link-to-your-project](https://github.com/sftSalman/Deploying-_custom_object_detection_Yolov5_RESTAPI_Deployment))
 
 9. **Project Title 2**
-   - Description: Brief description of the project.
-   - Technologies Used: List the technologies, libraries, or tools you used.
-   - Link to Project: [Project Link](link-to-your-project)
+ 
+   - Technologies Used: Deep learning,
+Computer vision,
+Object detection,
+Yolov5, RestApi ,
+Flask
+   -  [Project Link]([link-to-your-project](https://github.com/sftSalman/Deploying-_custom_object_detection_Yolov5_RESTAPI_Deployment))
+  
+   10. **ToDo:Daily**
+ 
+   - Technologies Used:Swift ,
+iOS,Firebase
+
+
+   -  [Project Link]([[link-to-your-project](https://github.com/sftSalman/Deploying-_custom_object_detection_Yolov5_RESTAPI_Deployment](https://github.com/sftSalman/TODO_IOS)))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
