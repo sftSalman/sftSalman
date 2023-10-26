@@ -31,10 +31,11 @@ Object Detection
 Algorithm, Computer
 Vision.
    -  [Project Link](https://github.com/sftSalman/Risky_building_detection_of_dhaka_city_from_satelite_images-)
-3. **Project Title 1**
-   - Description: Brief description of the project.
-   - Technologies Used: List the technologies, libraries, or tools you used.
-   - Link to Project: [Project Link](link-to-your-project)
+3. **Abstract-art-generationDCGAN**
+  
+   - Technologies Used: Deep Learning ,
+DCGAN, Pytorch
+ [Project Link]((https://github.com/sftSalman/Abstract-artgeneration-DCGAN)
 
 4. **Project Title 2**
    - Description: Brief description of the project.
