@@ -8,6 +8,26 @@
 
 - 🔭 I’m currently working on **several Research Project (Computer Vision And Generative AI))**
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **several Research Projects (Computer Vision And Generative AI)**
+
+<h3 align="left">Research and Academic Projects:</h3>
+
+1. **Project Title 1**
+   - Description: Brief description of the project.
+   - Technologies Used: List the technologies, libraries, or tools you used.
+   - Link to Project: [Project Link](link-to-your-project)
+
+2. **Project Title 2**
+   - Description: Brief description of the project.
+   - Technologies Used: List the technologies, libraries, or tools you used.
+   - Link to Project: [Project Link](link-to-your-project)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
