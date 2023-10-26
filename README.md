@@ -35,7 +35,7 @@ Vision.
   
    - Technologies Used: Deep Learning ,
 DCGAN, Pytorch
- [Project Link]([link-to-your-project](https://github.com/sftSalman/Abstract-art-generation-DCGAN))
+ - [Project Link]([link-to-your-project](https://github.com/sftSalman/Abstract-art-generation-DCGAN))
 
 4. ** FlowerGen-flower
 Generation using WGAN**
