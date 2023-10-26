@@ -35,7 +35,7 @@ Vision.
   
    - Technologies Used: Deep Learning ,
 DCGAN, Pytorch
- - [Project Link]([link-to-your-project](https://github.com/sftSalman/Abstract-art-generation-DCGAN))
+  -  [Project Link]([https://github.com/sftSalman/Risky_building_detection_of_dhaka_city_from_satelite_images-](https://github.com/sftSalman/Abstract-art-generation-DCGAN))
 
 4. ** FlowerGen-flower
 Generation using WGAN**
