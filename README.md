@@ -51,7 +51,7 @@
 **TensorFlow Projects:**
 
 1. **TensorFlow Basic**
-   - [Project Link](https://github.com/sftSalman/tensorflowBasic/blob/main/Augmented_CatsAndDog_tensorflow.ipynb)
+   - [Project Link](https://github.com/sftSalman/tensorflowBasic/blob/main)
 
 2. **TensorFlow Advanced**
    - [Project Link](https://github.com/sftSalman/tensoflowMaster/tree/main)
