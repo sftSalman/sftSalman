@@ -36,7 +36,7 @@
 
 6. **Pathole Detection using YOLOv4**
    - Technologies Used: Deep Learning, YOLO Object Detection Algorithm, Computer Vision.
-   - [Project Link](https://github.com/sftSalman/Pathhole_detection_using_yoloV4)
+   - [Project Link](https://github.com/sftSalman/Pathhole_detection_using_yoloV4-)
 
 7. **Deploying Custom Object Detection Model using YOLOv5 and REST API**
    - Technologies Used: Deep Learning, Computer Vision, Object Detection, YOLOv5, REST API, Flask.
