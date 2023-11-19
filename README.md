@@ -76,7 +76,11 @@
 
 
 **Python DSA:**
+1 **Bacic Operation**
+   - [Project Link](https://github.com/sftSalman/PythonDSA/tree/master)
+
 - **Leetcode**(https://github.com/sftSalman/LEET-CODE)
+- (https://github.com/sftSalman/Leet_code_python)
 - **Bacic Operation**()(https://github.com/sftSalman/PythonDSA/tree/master)
 
 
