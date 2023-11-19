@@ -68,6 +68,8 @@
 
 5. **Computer Vision (Image Segmentation) Project 2**
    - [Project Link](https://github.com/sftSalman/Image_segmentation/blob/main)
+6. **Face Detection And Varification **
+   - [Project Link](https://github.com/sftSalman/FaceRecognize_varification_detection_Tensorflow)
 
 
 
