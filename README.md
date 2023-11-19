@@ -75,6 +75,11 @@
    - [Project Link](https://github.com/sftSalman/FaceRecognize_varification_detection_Tensorflow)
 
 
+**Python DSA:**
+**Leetcode**(https://github.com/sftSalman/LEET-CODE)
+**Bacic Operation()(https://github.com/sftSalman/PythonDSA/tree/master)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
