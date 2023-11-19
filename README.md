@@ -38,11 +38,15 @@
    - Technologies Used: Deep Learning, YOLO Object Detection Algorithm, Computer Vision.
    - [Project Link](https://github.com/sftSalman/Pathhole_detection_using_yoloV4-)
 
-7. **Deploying Custom Object Detection Model using YOLOv5 and REST API**
+7. **Predicting the winner of T20 world cup**
+   - Technologies Used: Machine Learning, Sklearn.
+   - [Project Link](https://github.com/sftSalman/ML_Projcet/tree/main)
+   - 
+8. **Deploying Custom Object Detection Model using YOLOv5 and REST API**
    - Technologies Used: Deep Learning, Computer Vision, Object Detection, YOLOv5, REST API, Flask.
    - [Project Link](https://github.com/sftSalman/Deploying-_custom_object_detection_Yolov5_RESTAPI_Deployment)
 
-8. **ToDo:Daily**
+9. **ToDo:Daily**
    - Technologies Used: Swift, iOS, Firebase.
    - [Project Link](https://github.com/sftSalman/TODO_IOS)
   
@@ -59,19 +63,19 @@
 **PyTorch Projects:**
 
 
-3. **PyTorch Advanced**
+1. **PyTorch Advanced**
    - [Project Link](https://github.com/sftSalman/pytorch/blob/main)
-3. **PyTorch Fundamental**
+2. **PyTorch Fundamental**
    - [Project Link](https://github.com/sftSalman/pytorchFundamental)
 
 **Computer Vision Projects:**
 
-4. **Computer Vision (CNN) Project**
+1. **Computer Vision (CNN) Project**
    - [Project Link](https://github.com/sftSalman/CNN/blob/main)
 
-5. **Computer Vision (Image Segmentation) Project 2**
+2. **Computer Vision (Image Segmentation) Project 2**
    - [Project Link](https://github.com/sftSalman/Image_segmentation/blob/main)
-6. **Face Detection And Verification**
+3. **Face Detection And Verification**
    - [Project Link](https://github.com/sftSalman/FaceRecognize_varification_detection_Tensorflow)
 
 
