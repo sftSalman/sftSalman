@@ -58,8 +58,11 @@
 
 **PyTorch Projects:**
 
-3. **PyTorch Project**
+
+3. **PyTorch Advanced**
    - [Project Link](https://github.com/sftSalman/pytorch/blob/main)
+3. **PyTorch Fundamental**
+   - [Project Link](https://github.com/sftSalman/pytorchFundamental)
 
 **Computer Vision Projects:**
 
@@ -68,7 +71,7 @@
 
 5. **Computer Vision (Image Segmentation) Project 2**
    - [Project Link](https://github.com/sftSalman/Image_segmentation/blob/main)
-6. **Face Detection And Varification **
+6. **Face Detection And Verification**
    - [Project Link](https://github.com/sftSalman/FaceRecognize_varification_detection_Tensorflow)
 
 
