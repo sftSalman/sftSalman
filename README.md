@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Salman Farshi</h1>
-<h3 align="center">A passionate Artificial Intelligence.I'm a passionate AI Engineer with a strong background in machine learning and deep learning. I love creating intelligent systems and solving real-world problems using AI. Welcome to my GitHub profile!</h3>
+<h3 align="center">A passionate System Engineer with Intregated Artificial Intelligence.I'm a passionate AI Engineer with a strong background in machine learning and deep learning. I love creating intelligent systems and solving real-world problems using AI. Welcome to my GitHub profile!</h3>
 
 
 
