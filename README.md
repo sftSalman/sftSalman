@@ -17,10 +17,7 @@
 **AI and Machine Learning:** TensorFlow, PyTorch, Scikit-Learn, Machine learning, Deep Learning , NLP , LLM 
 
 
-<h3 align="left">Languages and Tools:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sftsalman&show_icons=true&locale=en&layout=compact" alt="sftsalman" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sftsalman&" alt="sftsalman" /></p>
 
 # 💻 Tech Stack:
 ...
