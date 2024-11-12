@@ -5,9 +5,9 @@
 
 # 💼 Skills:
 ### Languages and Frameworks:
-- **Programming Languages:** Python, JavaScript, PHP
+- **Programming Languages:** Python, JavaScript, TypeScript, PHP
 - **Web Development:** React.js, Next.js, Laravel
--  **Database:** MySQL, Firebase
+-  **Database:** MySQL, Firebase, MongoDB
 ### Tools and Technologies:
 - **Cloud:** AWS, Google Cloud
 - **Version Control:** Git
