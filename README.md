@@ -16,6 +16,14 @@
 - 
 **AI and Machine Learning:** TensorFlow, PyTorch, Scikit-Learn, Machine learning, Deep Learning , NLP , LLM 
 
+###  Professional Interests 専門的な興味
+- System Engineering / Software Engineering
+- Web Application Development
+- Artificial Intelligence
+- Internet of Things (IoT)
+- Robotics
+- Emerging Technologies & Systems
+
 
 
 
