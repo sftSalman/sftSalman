@@ -67,14 +67,6 @@ Here are some of my top AI & ML projects:
 
 ---
 
-## 📊 GitHub Stats  
-<p align="left">  
-  <img src="https://github-readme-stats.vercel.app/api?username=sftsalman&show_icons=true&theme=radical" alt="Salman's GitHub stats" />  
-</p>  
-
-<p align="left">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sftsalman&theme=radical" alt="GitHub Streak" />  
-</p>  
 
 ---
 
