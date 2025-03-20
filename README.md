@@ -32,6 +32,25 @@ Here are some of my top AI & ML projects:
 
 ---
 
+## 🏗️ Other Projects  
+
+### **🔬 TensorFlow & PyTorch Projects:**  
+- 🟠 **[TensorFlow Basics](https://github.com/sftSalman/tensorflowBasic/blob/main)** – Hands-on introduction to TensorFlow.  
+- 🔵 **[TensorFlow Advanced](https://github.com/sftSalman/tensoflowMaster/tree/main)** – Advanced deep learning models with TensorFlow.  
+- 🔴 **[PyTorch Fundamentals](https://github.com/sftSalman/pytorchFundamental)** – Exploring the essentials of PyTorch.  
+- ⚫ **[PyTorch Advanced](https://github.com/sftSalman/pytorch/blob/main)** – Implementing deep learning architectures using PyTorch.  
+
+### **🖼️ Computer Vision Projects:**  
+- 🧠 **[CNN Project](https://github.com/sftSalman/CNN/blob/main)** – Implementing Convolutional Neural Networks.  
+- 🖌 **[Image Segmentation Project](https://github.com/sftSalman/Image_segmentation/blob/main)** – Semantic segmentation using deep learning.  
+- 🔍 **[Face Detection & Verification](https://github.com/sftSalman/FaceRecognize_varification_detection_Tensorflow)** – Face recognition and verification with TensorFlow.  
+
+### **📌 Python Data Structures & Algorithms:**  
+- 🏗️ **[Basic Operations](https://github.com/sftSalman/PythonDSA/tree/master)** – Common data structures and algorithms in Python.  
+- 🎯 **[LeetCode Solutions](https://github.com/sftSalman/LEET-CODE)** – Optimized coding solutions for LeetCode problems.  
+
+---
+
 ## 🛠️ Tech Stack  
 **AI/ML Frameworks:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
