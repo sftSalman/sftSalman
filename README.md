@@ -9,27 +9,17 @@
 
 ## 🧠 Recent Skills & Specializations
 
-- **AI Agents & Multi-Agent Systems**  
-  – Hands-on with [LangGraph Agents](https://learn.deeplearning.ai/accomplishments/4e3d1f24-4a66-4b91-b3cd-e97614d57521?usp=sharing),  
-  [CrewAI for Multi-Agent Systems](https://learn.deeplearning.ai/accomplishments/e838ed8c-cb2d-41a2-a7aa-a2d7abd6ec54?usp=sharing), and  
-  [Advanced Use Cases](https://learn.deeplearning.ai/accomplishments/d4f270bf-cc35-4bdb-b5ac-f8cc8b2347b5?usp=sharing)
+- **AI Agents & Multi-Agent Systems** – Hands-on with [LangGraph Agents](https://learn.deeplearning.ai/accomplishments/4e3d1f24-4a66-4b91-b3cd-e97614d57521?usp=sharing), [CrewAI for Multi-Agent Systems](https://learn.deeplearning.ai/accomplishments/e838ed8c-cb2d-41a2-a7aa-a2d7abd6ec54?usp=sharing), and [Advanced Use Cases](https://learn.deeplearning.ai/accomplishments/d4f270bf-cc35-4bdb-b5ac-f8cc8b2347b5?usp=sharing)
 
-- **LLM Application Development**  
-  – Experience with [LangChain for LLM Apps](https://learn.deeplearning.ai/accomplishments/9d856e36-0c3a-4937-9f81-cdf41e27c191?usp=sharing)  
-  – Proficient in [Functions, Tools, and Agents with LangChain](https://learn.deeplearning.ai/accomplishments/055ab696-b5f9-4f05-a5d9-b7a2d2a2b170?usp=sharing)
+- **LLM Application Development** – Experience with [LangChain for LLM Apps](https://learn.deeplearning.ai/accomplishments/9d856e36-0c3a-4937-9f81-cdf41e27c191?usp=sharing), and proficient in [Functions, Tools, and Agents with LangChain](https://learn.deeplearning.ai/accomplishments/055ab696-b5f9-4f05-a5d9-b7a2d2a2b170?usp=sharing)
 
-- **RAG Pipelines & Vector Databases**  
-  – Implemented retrieval-augmented generation workflows using embeddings and memory search  
-  – Practical use cases built with [LangChain Chat with Your Data](https://learn.deeplearning.ai/accomplishments/ba2bb7ff-ee8b-4f13-aa51-e61ddd219f02?usp=sharing)
+- **RAG Pipelines & Vector Databases** – Implemented retrieval-augmented generation workflows using embeddings and memory search, including practical use cases with [LangChain Chat with Your Data](https://learn.deeplearning.ai/accomplishments/ba2bb7ff-ee8b-4f13-aa51-e61ddd219f02?usp=sharing)
 
-- **Generative Models & Prompt Engineering**  
-  – Skilled in designing prompts, optimizing system messages, and leveraging LLMs for creative and functional use cases
+- **Generative Models & Prompt Engineering** – Skilled in designing prompts, optimizing system messages, and leveraging LLMs for creative and functional use cases
 
-- **Task Automation with AI Tools**  
-  – Built agents for routing, scheduling, email triage, and real-time task coordination
+- **Task Automation with AI Tools** – Built agents for routing, scheduling, email triage, and real-time task coordination
 
-- **Custom Chatbots & Document Intelligence**  
-  – Created intelligent interfaces for documents, Q&A systems, and assistant-like agents
+- **Custom Chatbots & Document Intelligence** – Created intelligent interfaces for documents, Q&A systems, and assistant-like agents
 
 ---
 
