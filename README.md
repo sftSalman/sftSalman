@@ -34,11 +34,11 @@ From system development to AI implementation, I’ve been involved in a wide ran
 
 ## 💼 Areas of Expertise (専門分野)
 
-### 📌 Digital Transformation (DX)
-### 🖥️ System Engineering
-### 🌐 Web Technologies
-### 🤖 Automation
-### 📊 Data Science & AI
+- 📌 Digital Transformation (DX)
+- 🖥️ System Engineering
+- 🌐 Web Technologies
+- 🤖 Automation
+- 📊 Data Science & AI
 ---
 
 
