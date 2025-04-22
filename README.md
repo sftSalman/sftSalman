@@ -31,27 +31,6 @@ With a solid understanding of business challenges, I offer full-cycle solutions 
 
 ---
 
-## 🧑‍💼 Work Experience
-
-### SysLabo Inc. (Tokyo, Japan / Remote)  
-**Role**: System Engineer (Contract)  
-**Period**: Aug 2024 – Oct 2024  
-
-- Developed a web system to support **DX transformation**  
-- Responsible for requirement analysis, UI/UX design, API development, and database schema  
-- Tech: Next.js, TypeScript, Laravel, MySQL, Tailwind CSS  
-
----
-
-### North South University – Research & Development  
-**Role**: AI & Automation Engineer  
-**Period**: Jan 2023 – Oct 2023  
-
-- Led the development of a **DX support system** for academic research  
-- Implemented AI automation using OpenCV and TensorFlow  
-- Tech: Next.js, React, Python, Firebase, AWS  
-
----
 
 ## 💡 Key Skills
 
