@@ -1,136 +1,65 @@
-# 💼 サルマン・ファルシ  
-**DXエンジニア | システムエンジニア | 自動化・データサイエンス専門家**
+# 💼 Salman Farshi
+
+**DX Engineer | System Engineer | Automation & Data Science Specialist**
 
 ---
 
-## 📝 自己紹介
+## 📝 About Me
 
-はじめまして。  
-バングラデシュ出身の**サルマン・ファルシ**と申します。  
-私は**DX（デジタルトランスフォーメーション）**、**業務自動化**、および**データサイエンス・AI**の分野において、実務経験を持つエンジニアです。
+Nice to meet you! I'm Salman Farshi, originally from Bangladesh. I’m an engineer with practical experience in **Digital Transformation (DX)**, **business process automation**, and **data science & AI**.
 
-業務プロセスの効率化や自動化に貢献するため、システム開発からAI導入まで幅広く対応してきました。**技術力 × 論理的思考 × 誠実さ**を活かし、御社のDX推進にお役立てできればと考えております。
+From system development to AI implementation, I’ve been involved in a wide range of solutions to improve operational efficiency and digitalize manual processes. I strive to bring value to organizations by combining **technical skills × logical thinking × integrity**.
 
 ---
 
+## 🎓 Education
+
+**North South University, Bangladesh**  
+**Major:** Computer Science and Engineering  
+---
+
+## 🧑‍💼 Work Experience
+
+### 🏢 SysLabo Inc. (Tokyo / Remote)
+
+### 🧪 AI & Automation Lab, North South University
 
 ---
 
-## 🎓 学歴
+## 💼 Areas of Expertise
 
-**ノースサウス大学（バングラデシュ）**  
-- コンピューターサイエンスおよびエンジニアリング専攻  
-- 卒業：2023年1月  
+### 📌 Digital Transformation (DX)
+### 🖥️ System Engineering
+### 🌐 Web Technologies
+### 🤖 Automation
+### 📊 Data Science & AI
+---
+
+## 📌 Key Projects
+
+### ✅ ERP DX Platform
+
+### 🧠 RAG-based AI Search Chatbot
+
+### 🌾 Smart Agriculture AI System
+
+### 🏥 HealthHub Medical Support System
 
 ---
 
-## 🧑‍💼 職務経歴
+## 🗣️ Language Skills
 
-### 🏢 SysLabo株式会社（東京 / リモート勤務）  
-**職種**：システムエンジニア（契約）  
-**期間**：2024年8月〜2024年10月  
-
-
-
----
-
-### 🧪 ノースサウス大学 研究室（AI・自動化部門）  
-**職種**：AI・自動化エンジニア  
-**期間**：2023年1月〜2023年10月  
-
-
+| Language | Proficiency              | Usage in Work                          |
+| -------- | ------------------------ | -------------------------------------- |
+| Japanese | Conversational (JLPT N4) | Reading, emails, basic conversations   |
+| English  | Business Level           | Meetings, documentation, communication |
+| Bengali  | Native                   | All-purpose                            |
 
 ---
 
-## 💼 専門分野
+## 🧭 Career Goal
 
-### 📌 デジタルトランスフォーメーション（DX）
-- 業務支援システムの設計・開発  
-- 手作業プロセスのデジタル化による効率向上  
-- 社内システムのUI/UX設計、改善提案
-
-### 🤖 自動化（Automation）
-- バックエンドやクラウドの自動化スクリプト構築  
-- RPA的処理、自動通知・レポートシステム構築  
-- Firebase Functions や Webhook、Python によるトリガー処理
-
-### 📊 データサイエンス・AI
-- Deep Learning（CNN, GAN, RNN）やOpenCVによる画像解析  
-- データの前処理・可視化・予測分析  
-- LangChain、RAG構成によるAIチャットボット開発  
-- ビジネス意思決定を支えるAIソリューション設計
+I aim to become an engineer who contributes to business growth and operational improvement through technology—particularly in the field of DX. By combining my skills in AI, automation, system engineering, and software development, I strive to deliver practical, effective solutions in real-world environments.
 
 ---
 
-
----
-
-## 📌 主なプロジェクト
-
-### ✅ **ERP DXプラットフォーム**
-- LaravelとMySQLによる業務管理システム構築  
-- 自動通知・管理ダッシュボードの導入  
-- 社内業務の効率化とレポート作成時間の短縮に貢献
-
-### 🧠 **RAGベースのAI検索チャットボット**
-- OpenAI + FAISS を活用した社内文書検索＆応答AI  
-- 社内Q&A対応の時間短縮・正確性向上を実現
-
-### 🌾 **スマート農業AIシステム**
-- 衛星画像を用いた作物エリア検出（YOLO、CNN）  
-- 地域ごとの農業支援のためのデジタルソリューション提供
-
-### 🏥 **HealthHub 医療サポートシステム**
-- 医療機関向け予約・記録管理システムを構築  
-- フロントエンド：React、バックエンド：Python、Firebase  
-
----
-
-
-
----
-
-## 🗣️ 言語スキル
-
-| 言語     | レベル                    | 業務での使用     |
-|----------|---------------------------|------------------|
-| 日本語   | 日常会話レベル（JLPT N4） | 読解・メール対応など |
-| 英語     | ビジネスレベル            | 会議・資料・通話 |
-| ベンガル語 | ネイティブ                | 全般              |
-
----
-
-## 🧭 キャリア目標
-
-DXを中心とした技術を活用し、**企業の成長と業務改善に貢献できるエンジニア**を目指しております。  
-AI、自動化、ソフトウェア開発のスキルを融合し、現場で役立つ“実効性のある技術”を提供していきたいと考えております。
-
----
-
-## 🎯 強み
-
-- チームとの協調性、柔軟な対応力  
-- 日本企業文化への理解と適応力  
-- 新しい技術への学習意欲と行動力  
-- ビジネス課題を技術で解決する志向  
-
----
-
-## 🐾 趣味・関心
-
-- 日本語学習、日本文化の研究  
-- 猫カフェや日本庭園巡り  
-- 技術ブログ、読書（ビジネス・生産性）  
-- 日本国内旅行（特に関西・長野に興味）
-
----
-
-## 🙇‍♂️ 最後に
-
-ご覧いただき、誠にありがとうございます。  
-DX、自動化、AIの分野において、御社に価値を提供できるよう、全力で取り組んでまいります。  
-今後、ご縁がありましたら幸いです。
-
-どうぞよろしくお願いいたします。
-
----
