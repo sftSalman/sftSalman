@@ -1,4 +1,4 @@
-# 💼 Salman Farshi
+# 💼 Salman Farshi (サルマン・ファルシ)
 
 - **DX  | System Engineer |AI Automation & Data Science Specialist**
 - **DXエンジニア｜システムエンジニア|Web技術 （フロントエンド・バックエンド)｜自動化・データサイエンスのスペシャリスト**
