@@ -48,7 +48,7 @@ From system development to AI implementation, I’ve been involved in a wide ran
 
 | Language | Proficiency              | Usage in Work                          |
 | -------- | ------------------------ | -------------------------------------- |
-| 日本語   ｜日常会話レベル（JLPT N4）  ｜読み書き、メール対応、基本的な会話が可能  |
+| 日本語    | 日常会話レベル（JLPT N4）   | 読み書き、メール対応、基本的な会話が可能  |
 | English  | Business Level           | Meetings, documentation, communication |
 | Bengali  | Native                   | All-purpose                            |
 
