@@ -15,8 +15,8 @@ From system development to AI implementation, I’ve been involved in a wide ran
 
 ## 🎓 Education
 
-*North South University, Bangladesh**  
-*Major:** Computer Science and Engineering  
+*North South University, Bangladesh*  
+*Major:* Computer Science and Engineering  
 ---
 
 ## 🧑‍💼 Work Experience
