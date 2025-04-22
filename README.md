@@ -13,16 +13,6 @@
 
 ---
 
-## 📌 基本情報
-
-| 項目        | 内容                                           |
-|-------------|------------------------------------------------|
-| 居住地      | バングラデシュ・ダッカ（Bashundhara R/A）     |
-| 電話番号    | +8801779989094                                 |
-| メール      | salmanfarshinsu@gmail.com                      |
-| GitHub      | [github.com/sftSalman](https://github.com/sftSalman) |
-| ポートフォリオ | [sftsalman.github.io](https://sftsalman.github.io/) |
-| LinkedIn    | [プロフィールはこちら](https://www.linkedin.com/in/salman-farshi-taufique/) |
 
 ---
 
@@ -72,18 +62,6 @@
 
 ---
 
-## 🧰 技術スキル
-
-| 分類             | 使用技術                                                  |
-|------------------|----------------------------------------------------------|
-| プログラミング   | Python、JavaScript、TypeScript、PHP                     |
-| Webフレームワーク | Next.js、React、Laravel、Flask、Express.js              |
-| データ・AI関連   | TensorFlow、PyTorch、OpenCV、Pandas、NumPy、Scikit-learn |
-| 自動化技術       | Shellスクリプト、Firebase Functions、LangChain           |
-| データベース     | MySQL、PostgreSQL、Firebase、MongoDB                     |
-| クラウド・DevOps | AWS、Docker、Git、Firebase、Netlify、Render             |
-| UI/デザイン      | Tailwind CSS、Figma、Chart.js、Recharts                  |
-| その他ツール     | GitHub、Postman、Jira、Trello                             |
 
 ---
 
@@ -108,14 +86,7 @@
 
 ---
 
-## 🏅 資格・認定
 
-| 資格名                                   | 発行機関      |
-|------------------------------------------|---------------|
-| TensorFlow Advanced Techniques           | Coursera      |
-| Deep Learning Specialization             | Coursera      |
-| GANs Specialization                      | Coursera      |
-| BJET日本語教育プログラム（Basic Plus）   | BJET Japan    |
 
 ---
 
