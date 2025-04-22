@@ -1,173 +1,168 @@
-# 💼 Salman Farshi  
-**DX Specialist | System Engineer | Automation & Data Science Expert**
+# 💼 サルマン・ファルシ  
+**DXエンジニア | システムエンジニア | 自動化・データサイエンス専門家**
 
 ---
 
-## 📝 Self-Introduction (自己紹介)
+## 📝 自己紹介
 
-Nice to meet you.  
-My name is **Salman Farshi**, a professional engineer specializing in **DX (Digital Transformation)**, **Automation**, and **Data Science / AI**.
+はじめまして。  
+バングラデシュ出身の**サルマン・ファルシ**と申します。  
+私は**DX（デジタルトランスフォーメーション）**、**業務自動化**、および**データサイエンス・AI**の分野において、実務経験を持つエンジニアです。
 
-I have actively contributed to the **planning, development, and operation of business systems** that improve productivity and operational efficiency.  
-By combining my skills in **system engineering**, **AI technologies**, and **automation**, I aim to support your company’s **DX initiatives** and provide real business value.
-
-I am confident that I can contribute to solving real-world problems through **technology, logic, and sincerity**.
+業務プロセスの効率化や自動化に貢献するため、システム開発からAI導入まで幅広く対応してきました。**技術力 × 論理的思考 × 誠実さ**を活かし、御社のDX推進にお役立てできればと考えております。
 
 ---
 
-## 📌 Basic Information
+## 📌 基本情報
 
-| Item         | Detail                                         |
-|--------------|------------------------------------------------|
-| Location     | Bashundhara R/A, Dhaka, Bangladesh             |
-| Phone        | +8801779989094                                 |
-| Email        | salmanfarshinsu@gmail.com                      |
-| GitHub       | [github.com/sftSalman](https://github.com/sftSalman) |
-| Portfolio    | [sftsalman.github.io](https://sftsalman.github.io/) |
-| LinkedIn     | [LinkedIn Profile](https://www.linkedin.com/in/salman-farshi-taufique/) |
-
----
-
-## 🎓 Education
-
-**North South University (Dhaka, Bangladesh)**  
-- Bachelor of Science in Computer Science and Engineering  
-- Graduation: Jan 2023  
+| 項目        | 内容                                           |
+|-------------|------------------------------------------------|
+| 居住地      | バングラデシュ・ダッカ（Bashundhara R/A）     |
+| 電話番号    | +8801779989094                                 |
+| メール      | salmanfarshinsu@gmail.com                      |
+| GitHub      | [github.com/sftSalman](https://github.com/sftSalman) |
+| ポートフォリオ | [sftsalman.github.io](https://sftsalman.github.io/) |
+| LinkedIn    | [プロフィールはこちら](https://www.linkedin.com/in/salman-farshi-taufique/) |
 
 ---
 
-## 🧑‍💼 Work Experience
+## 🎓 学歴
 
-### 🏢 SysLabo Inc. (Tokyo, Japan / Remote)  
-**Position**: System Engineer (Contract)  
-**Period**: Aug 2024 – Oct 2024  
-
-- Developed internal system for improving operational efficiency via **DX**  
-- Worked on front-end, back-end, API, and DB design using full-stack technologies  
-- Tech Used: Next.js, Laravel, TypeScript, Tailwind CSS, MySQL  
+**ノースサウス大学（バングラデシュ）**  
+- コンピューターサイエンスおよびエンジニアリング専攻  
+- 卒業：2023年1月  
 
 ---
 
-### 🧪 NSU Research Lab – AI & Automation Department  
-**Position**: AI & Automation Engineer  
-**Period**: Jan 2023 – Oct 2023  
+## 🧑‍💼 職務経歴
 
-- Built intelligent systems to automate academic workflows  
-- Created AI models and automation tools to improve system performance  
-- Tools: Python, TensorFlow, React.js, Firebase  
+### 🏢 SysLabo株式会社（東京 / リモート勤務）  
+**職種**：システムエンジニア（契約）  
+**期間**：2024年8月〜2024年10月  
 
----
-
-## 💼 Specializations (専門領域)
-
-### 📌 Digital Transformation (DX)
-- Design and development of business support systems  
-- Optimization of existing manual processes via digitization  
-- UX/UI planning and system proposal for internal tools
-
-### 🤖 Automation
-- Automated backend and cloud workflows  
-- Business logic scripting and system monitoring tools  
-- RPA techniques and trigger-based tasks (Python, Node.js)
-
-### 📊 Data Science & AI
-- Deep Learning (CNN, GAN, RNN), Computer Vision (OpenCV)  
-- Data preprocessing, visualization, and inference pipelines  
-- Chatbot development using LangChain and RAG Architecture  
-- AI-based decision making for business analytics
+- 社内業務DXのためのWebシステム開発  
+- フロントエンド、バックエンド、API、DB設計に従事  
+- 技術：Next.js、Laravel、TypeScript、Tailwind CSS、MySQL  
 
 ---
 
-## 🧰 Technical Skills (技術スキル)
+### 🧪 ノースサウス大学 研究室（AI・自動化部門）  
+**職種**：AI・自動化エンジニア  
+**期間**：2023年1月〜2023年10月  
 
-| Category         | Tools / Technologies                                                  |
-|------------------|----------------------------------------------------------------------|
-| Programming      | Python, JavaScript, TypeScript, PHP                                  |
-| Web Frameworks   | Next.js, React, Laravel, Flask, Express.js                           |
-| Data & AI        | TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Scikit-learn             |
-| Automation Tools | Shell Scripts, Firebase Functions, CRON jobs, LangChain, Webhooks    |
-| Database         | MySQL, PostgreSQL, Firebase, MongoDB                                 |
-| Cloud & DevOps   | AWS, Docker, Git, Firebase, Netlify, Render                          |
-| Design / UI      | Tailwind CSS, Figma, Chart.js, Recharts                              |
-| Tools            | GitHub, Postman, Jira, Trello                                        |
+- 教育機関向け自動化ソリューションの開発  
+- 機械学習・AIによる業務改善ツールを構築  
+- 技術：Python、TensorFlow、React.js、Firebase  
 
 ---
 
-## 📌 Notable Projects (代表プロジェクト)
+## 💼 専門分野
 
-### ✅ **ERP DX Platform**  
-- Backend system built in Laravel and MySQL  
-- Automated admin dashboard and notification systems  
-- Business benefit: Reduced manual work, improved internal reporting  
+### 📌 デジタルトランスフォーメーション（DX）
+- 業務支援システムの設計・開発  
+- 手作業プロセスのデジタル化による効率向上  
+- 社内システムのUI/UX設計、改善提案
 
-### 🧠 **RAG-based Chatbot with AI Search**  
-- Document search + chatbot system using OpenAI and FAISS  
-- Boosted productivity by providing quick and accurate answers  
-- Business use: Smart internal helpdesk or client assistant  
+### 🤖 自動化（Automation）
+- バックエンドやクラウドの自動化スクリプト構築  
+- RPA的処理、自動通知・レポートシステム構築  
+- Firebase Functions や Webhook、Python によるトリガー処理
 
-### 🌾 **Smart Agro AI System**  
-- Satellite image analysis using YOLO and CNN  
-- Identified agricultural zones to support digital agriculture  
-- DX contribution: Real-time decision-making in rural sectors  
-
-### 🏥 **HealthHub – Medical Support System**  
-- Full-stack application for managing hospital operations  
-- Online appointment, digital record tracking, patient analytics  
-- Tech: React, Python, Firebase  
+### 📊 データサイエンス・AI
+- Deep Learning（CNN, GAN, RNN）やOpenCVによる画像解析  
+- データの前処理・可視化・予測分析  
+- LangChain、RAG構成によるAIチャットボット開発  
+- ビジネス意思決定を支えるAIソリューション設計
 
 ---
 
-## 🏅 Certifications
+## 🧰 技術スキル
 
-| Title                                 | Provider      |
-|--------------------------------------|---------------|
-| TensorFlow Advanced Techniques       | Coursera      |
-| Deep Learning Specialization         | Coursera      |
-| GANs Specialization                  | Coursera      |
-| BJET Japanese Language (Basic Plus)  | BJET Japan    |
-
----
-
-## 🗣️ Language Proficiency
-
-| Language   | Level (CEFR / JLPT)      | Usage in Work |
-|------------|--------------------------|---------------|
-| Japanese   | Conversational (JLPT N4) | ✔︎ Reading, Email Writing |
-| English    | Business Level           | ✔︎✔︎✔︎ Meetings, Docs, Calls |
-| Bengali    | Native                   | ✔︎✔︎✔︎             |
+| 分類             | 使用技術                                                  |
+|------------------|----------------------------------------------------------|
+| プログラミング   | Python、JavaScript、TypeScript、PHP                     |
+| Webフレームワーク | Next.js、React、Laravel、Flask、Express.js              |
+| データ・AI関連   | TensorFlow、PyTorch、OpenCV、Pandas、NumPy、Scikit-learn |
+| 自動化技術       | Shellスクリプト、Firebase Functions、LangChain           |
+| データベース     | MySQL、PostgreSQL、Firebase、MongoDB                     |
+| クラウド・DevOps | AWS、Docker、Git、Firebase、Netlify、Render             |
+| UI/デザイン      | Tailwind CSS、Figma、Chart.js、Recharts                  |
+| その他ツール     | GitHub、Postman、Jira、Trello                             |
 
 ---
 
-## 🧭 Career Goals (キャリア目標)
+## 📌 主なプロジェクト
 
-I aspire to grow as a **DX-focused engineer** who can bridge **technology and real business needs**.  
-By combining **Automation, AI, and Software Engineering**, I wish to deliver **tangible results** for companies striving for **digital competitiveness**.
+### ✅ **ERP DXプラットフォーム**
+- LaravelとMySQLによる業務管理システム構築  
+- 自動通知・管理ダッシュボードの導入  
+- 社内業務の効率化とレポート作成時間の短縮に貢献
 
----
+### 🧠 **RAGベースのAI検索チャットボット**
+- OpenAI + FAISS を活用した社内文書検索＆応答AI  
+- 社内Q&A対応の時間短縮・正確性向上を実現
 
-## 🎯 Strengths (強み)
+### 🌾 **スマート農業AIシステム**
+- 衛星画像を用いた作物エリア検出（YOLO、CNN）  
+- 地域ごとの農業支援のためのデジタルソリューション提供
 
-- Strong communication and teamwork skills  
-- Passion for Japanese work culture and innovation  
-- Reliable and sincere attitude to work  
-- Flexible in handling multiple tech stacks and business domains  
-
----
-
-## 🐾 Hobbies & Interests
-
-- Japanese culture & language study  
-- Cat cafes & traditional gardens  
-- Tech blogging, reading productivity books  
-- Traveling (especially Japan)
+### 🏥 **HealthHub 医療サポートシステム**
+- 医療機関向け予約・記録管理システムを構築  
+- フロントエンド：React、バックエンド：Python、Firebase  
 
 ---
 
-## 🙇‍♂️ Final Message
+## 🏅 資格・認定
 
-Thank you very much for viewing my profile.  
-I am committed to contributing with sincerity and skill to your company’s goals, especially in the fields of **DX**, **Automation**, and **Data Science**.  
-I look forward to the opportunity of working together.
+| 資格名                                   | 発行機関      |
+|------------------------------------------|---------------|
+| TensorFlow Advanced Techniques           | Coursera      |
+| Deep Learning Specialization             | Coursera      |
+| GANs Specialization                      | Coursera      |
+| BJET日本語教育プログラム（Basic Plus）   | BJET Japan    |
+
+---
+
+## 🗣️ 言語スキル
+
+| 言語     | レベル                    | 業務での使用     |
+|----------|---------------------------|------------------|
+| 日本語   | 日常会話レベル（JLPT N4） | 読解・メール対応など |
+| 英語     | ビジネスレベル            | 会議・資料・通話 |
+| ベンガル語 | ネイティブ                | 全般              |
+
+---
+
+## 🧭 キャリア目標
+
+DXを中心とした技術を活用し、**企業の成長と業務改善に貢献できるエンジニア**を目指しております。  
+AI、自動化、ソフトウェア開発のスキルを融合し、現場で役立つ“実効性のある技術”を提供していきたいと考えております。
+
+---
+
+## 🎯 強み
+
+- チームとの協調性、柔軟な対応力  
+- 日本企業文化への理解と適応力  
+- 新しい技術への学習意欲と行動力  
+- ビジネス課題を技術で解決する志向  
+
+---
+
+## 🐾 趣味・関心
+
+- 日本語学習、日本文化の研究  
+- 猫カフェや日本庭園巡り  
+- 技術ブログ、読書（ビジネス・生産性）  
+- 日本国内旅行（特に関西・長野に興味）
+
+---
+
+## 🙇‍♂️ 最後に
+
+ご覧いただき、誠にありがとうございます。  
+DX、自動化、AIの分野において、御社に価値を提供できるよう、全力で取り組んでまいります。  
+今後、ご縁がありましたら幸いです。
 
 どうぞよろしくお願いいたします。
 
