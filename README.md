@@ -41,13 +41,22 @@ From system development to AI implementation, I’ve been involved in a wide ran
 
 ---
 
-## 🧠 Recent Skills & Specializations
+## 🧠 Recent Skills,Specializations & Certifications
 
-- **AI Agents & Multi-Agent Systems** – Hands-on with [LangGraph Agents](https://learn.deeplearning.ai/accomplishments/4e3d1f24-4a66-4b91-b3cd-e97614d57521?usp=sharing), [CrewAI for Multi-Agent Systems](https://learn.deeplearning.ai/accomplishments/e838ed8c-cb2d-41a2-a7aa-a2d7abd6ec54?usp=sharing), and [Advanced Use Cases](https://learn.deeplearning.ai/accomplishments/d4f270bf-cc35-4bdb-b5ac-f8cc8b2347b5?usp=sharing)
+1. [LangGraph Agents Certification](https://learn.deeplearning.ai/accomplishments/4e3d1f24-4a66-4b91-b3cd-e97614d57521?usp=sharing)  
+   Certification for hands-on experience with LangGraph Agents, focusing on building intelligent AI agents capable of complex decision-making and collaboration.
 
-- **LLM Application Development** – Experience with [LangChain for LLM Apps](https://learn.deeplearning.ai/accomplishments/9d856e36-0c3a-4937-9f81-cdf41e27c191?usp=sharing), and proficient in [Functions, Tools, and Agents with LangChain](https://learn.deeplearning.ai/accomplishments/055ab696-b5f9-4f05-a5d9-b7a2d2a2b170?usp=sharing)
+2. [CrewAI for Multi-Agent Systems Certification](https://learn.deeplearning.ai/accomplishments/e838ed8c-cb2d-41a2-a7aa-a2d7abd6ec54?usp=sharing)  
+   Demonstrates proficiency in designing and deploying multi-agent systems using CrewAI, enabling scalable and cooperative AI agent networks.
 
-- **RAG Pipelines & Vector Databases** – Implemented retrieval-augmented generation workflows using embeddings and memory search, including practical use cases with [LangChain Chat with Your Data](https://learn.deeplearning.ai/accomplishments/ba2bb7ff-ee8b-4f13-aa51-e61ddd219f02?usp=sharing)
+3. [Advanced Use Cases Certification](https://learn.deeplearning.ai/accomplishments/d4f270bf-cc35-4bdb-b5ac-f8cc8b2347b5?usp=sharing)  
+   Covers advanced applications of AI agents in real-world scenarios, emphasizing practical problem-solving with multi-agent architectures.
+
+4. [LangChain for LLM Apps Certification](https://learn.deeplearning.ai/accomplishments/9d856e36-0c3a-4937-9f81-cdf41e27c191?usp=sharing)  
+   Validates skills in developing applications using LangChain to leverage Large Language Models (LLMs) for natural language understanding and generation.
+
+5. [Functions, Tools, and Agents with LangChain Certification](https://learn.deeplearning.ai/accomplishments/055ab696-b5f9-4f05-a5d9-b7a2d2a2b170?usp=sharing)  
+   Focuses on the integration of functions, external tools, and AI agents within LangChain to create dynamic and interactive LLM-powered applications.
 
 - **Generative Models & Prompt Engineering** – Skilled in designing prompts, optimizing system messages, and leveraging LLMs for creative and functional use cases
 
