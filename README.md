@@ -53,11 +53,52 @@ From system development to AI implementation, I’ve been involved in a wide ran
 - **Custom Chatbots & Document Intelligence** – Created intelligent interfaces for documents, Q&A systems, and assistant-like agents
 
 ---
+## 🎓 Professional Learning & Specializations
+
+Completed advanced AI/ML coursework through top online programs and applied learnings in real-world projects.
+
+- **Deep Learning Specialization** — *DeepLearning.AI*  
+  Covered neural networks, CNNs, RNNs, and optimization techniques for building deep learning models.
+
+- **Machine Learning Specialization** — *Stanford University via Coursera*  
+  Studied supervised and unsupervised learning, SVMs, clustering, and applied machine learning techniques.
+
+- **Generative Adversarial Networks (GANs) Specialization** — *DeepLearning.AI*  
+  Hands-on experience with DCGANs, Conditional GANs, CycleGANs, and techniques to stabilize training.
+
+- **TensorFlow: Advanced Techniques Specialization** — *DeepLearning.AI*  
+  Focused on transfer learning, fine-tuning, TensorFlow Functional API, and advanced model training.
+
+- **MLOps Specialization (Machine Learning Engineering for Production)** — *DeepLearning.AI*  
+  Gained skills in deploying, scaling, monitoring, and maintaining ML models in production environments.
+
+> 💡All courses were completed with hands-on practice and applied to project work.*
+
 
 ---
 
 ## 🚀 Featured AI/ML Projects  
 Here are some of my top AI & ML projects:  
+## 🚀 Featured Projects
+
+> 🛑 *Note: The following projects are private due to proprietary or client-sensitive data. Demos available upon request.*
+
+### 🤖 Retrieval-Augmented Generation (RAG) Chatbot  
+**Status**: Completed | **Tech**: LangChain, LLMs, Vector Databases  
+- Developed a domain-specific chatbot using Retrieval-Augmented Generation (RAG) techniques.  
+- Integrated LangChain for memory optimization, improving response relevance by **50%**.  
+- Focused on vector embedding, document retrieval, and conversational context handling.  
+- **GitHub**: _Private_ | **Demo**: _Available upon request_
+
+---
+
+### 🧠 Autonomous AI Agent for Business Process Automation  
+**Status**: Completed | **Tech**: LangChain Agents, Multi-Agent Systems, AWS Lambda, FAISS  
+- Built a multi-agent system for automating invoice generation, inventory management, and customer support workflows.  
+- Leveraged LangChain Agents to enable task delegation and execution.  
+- Reduced manual workload by **75%**, boosting operational efficiency by **40%**.  
+- **GitHub**: _Private_ | **Demo**: _Available upon request_
+
 
 🔹 **[Arable Land Detection](https://github.com/sftSalman/Arable_land_and_nonarable_land_dectection_from_sataleite_images-)**  
    - 🛰️ **Deep Learning | YOLO | Computer Vision**  
