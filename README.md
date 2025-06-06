@@ -1,6 +1,6 @@
 # 💼 Salman Farshi (サルマン・ファルシ)
 
-- **DX  | System Engineer |AI Automation & Data Science Specialist**
+- **🚀 AI/ML Engineer | Systems Engineer | Researcher | Open-Source Contributor 
 - **DXエンジニア｜システムエンジニア|Web技術 （フロントエンド・バックエンド)｜自動化・データサイエンスのスペシャリスト**
 
 ---
@@ -32,9 +32,12 @@ From system development to AI implementation, I’ve been involved in a wide ran
 
 - 自動化ワークフローおよびデータ分析パイプラインの構築に貢献
 
-### 🧪 AI & Automation Lab, North South University
-- DXプロトタイプおよび研究ベースの自動化ツールのシステム開発を主導しました。
-- AIモデルのトレーニング、バックエンドスクリプト作成、システム統合に注力
+### 🧪 Research Assistant 
+**North South University, Dhaka, Bangladesh**
+
+- Designed and trained deep learning models for computer vision and generative AI research.  
+- Developed automation tools and handled data preprocessing to support research experiments.
+
 
 ---
 
